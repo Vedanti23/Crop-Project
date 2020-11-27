@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207796034681",
+    "firebase_url": "https://thinking-creek-240918.firebaseio.com",
+    "project_id": "thinking-creek-240918",
+    "storage_bucket": "thinking-creek-240918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207796034681:android:56c70aee9e192f37e288a8",
+        "android_client_info": {
+          "package_name": "com.example.cropdoctor2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207796034681-sdpp0bp3mkst4kn146pigosudfnpbo9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cropdoctor2",
+            "certificate_hash": "34269dce8db6eb8aed6c59f1cc5e179b53c310ce"
+          }
+        },
+        {
+          "client_id": "207796034681-9f1gs9kukrrjp1qmnprunthh7ohqjthl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3Q7fXRVQMYRjKKXimnA4zjDyluanaqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207796034681-9f1gs9kukrrjp1qmnprunthh7ohqjthl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
